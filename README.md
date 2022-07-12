@@ -1,2 +1,2 @@
 # ejercicioBilleteras
-Ejercicio planteado en el curso de .NET 6.0 del Polo tecnológico de Mina Clavero 
+Ejercicio donde se llevo a la practica el uso de clases, definicion de atributos y creacion de metodos. 
